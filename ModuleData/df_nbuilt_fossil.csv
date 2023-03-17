@@ -1,0 +1,97 @@
+load_zone,Coal,Gas,Scenario
+Angola,0.0,7.578460393066237,Existing Tx
+Botswana,0.0,0.0,Existing Tx
+DRC,0.2837495415703988,0.0,Existing Tx
+Eswatini,,0.0,Existing Tx
+Lesotho,0.0,0.0,Existing Tx
+Malawi,2.1005918131763526,0.0,Existing Tx
+Mozambique,0.0,4.321751172220748,Existing Tx
+Namibia,,4.199876026128032,Existing Tx
+SouthAfrica,0.0,8.217224635067664,Existing Tx
+Tanzania,0.0,21.39601470336973,Existing Tx
+Zambia,0.0,0.0,Existing Tx
+Zimbabwe,0.0,,Existing Tx
+Angola,0.0,7.891824034411051,Planned Tx
+Botswana,0.0,0.0,Planned Tx
+DRC,0.0,0.0,Planned Tx
+Eswatini,,0.0,Planned Tx
+Lesotho,0.0,0.0,Planned Tx
+Malawi,1.6396179731492795,0.0,Planned Tx
+Mozambique,0.0,5.341836536233168,Planned Tx
+Namibia,,3.942195607729351,Planned Tx
+SouthAfrica,0.0,8.433694764155788,Planned Tx
+Tanzania,0.0,25.69564191671185,Planned Tx
+Zambia,0.0,0.0,Planned Tx
+Zimbabwe,0.0,,Planned Tx
+Angola,0.0,9.280226291071417,Optimal Tx (Reference)
+Botswana,0.0,0.0,Optimal Tx (Reference)
+DRC,0.0,0.0,Optimal Tx (Reference)
+Eswatini,,0.0,Optimal Tx (Reference)
+Lesotho,0.0,0.0,Optimal Tx (Reference)
+Malawi,0.0,0.0,Optimal Tx (Reference)
+Mozambique,0.0,7.20572575874847,Optimal Tx (Reference)
+Namibia,,4.323355313084809,Optimal Tx (Reference)
+SouthAfrica,0.0,7.866280014295892,Optimal Tx (Reference)
+Tanzania,0.0,22.583085193403125,Optimal Tx (Reference)
+Zambia,0.0,0.0,Optimal Tx (Reference)
+Zimbabwe,0.0,,Optimal Tx (Reference)
+Angola,0.0,16.41464056702262,Static costs
+Botswana,0.0,0.0,Static costs
+DRC,0.0,0.0,Static costs
+Eswatini,,0.0,Static costs
+Lesotho,0.0,0.0,Static costs
+Malawi,0.0,0.0,Static costs
+Mozambique,0.0,19.323,Static costs
+Namibia,,6.707999999999999,Static costs
+SouthAfrica,0.0,14.965489339541652,Static costs
+Tanzania,0.0,16.35781120842143,Static costs
+Zambia,0.0,0.0,Static costs
+Zimbabwe,0.0,,Static costs
+Angola,0.0,2.6886302469430343,Clean 80%
+Botswana,0.0,0.0,Clean 80%
+DRC,0.0,0.0,Clean 80%
+Eswatini,,0.0,Clean 80%
+Lesotho,0.0,0.0,Clean 80%
+Malawi,0.0,0.0,Clean 80%
+Mozambique,0.0,0.0,Clean 80%
+Namibia,,0.0,Clean 80%
+SouthAfrica,0.0,3.1183166322822116,Clean 80%
+Tanzania,0.0,15.882648330506598,Clean 80%
+Zambia,0.0,0.0,Clean 80%
+Zimbabwe,0.0,,Clean 80%
+Angola,0.0,9.280226291071417,Coal ret. 65y (Reference)
+Botswana,0.0,0.0,Coal ret. 65y (Reference)
+DRC,0.0,0.0,Coal ret. 65y (Reference)
+Eswatini,,0.0,Coal ret. 65y (Reference)
+Lesotho,0.0,0.0,Coal ret. 65y (Reference)
+Malawi,0.0,0.0,Coal ret. 65y (Reference)
+Mozambique,0.0,7.20572575874847,Coal ret. 65y (Reference)
+Namibia,,4.323355313084809,Coal ret. 65y (Reference)
+SouthAfrica,0.0,7.866280014295892,Coal ret. 65y (Reference)
+Tanzania,0.0,22.583085193403125,Coal ret. 65y (Reference)
+Zambia,0.0,0.0,Coal ret. 65y (Reference)
+Zimbabwe,0.0,,Coal ret. 65y (Reference)
+Angola,0.0,9.189660257840075,Coal ret. 55y
+Botswana,0.0,0.0,Coal ret. 55y
+DRC,0.0,0.0,Coal ret. 55y
+Eswatini,,0.0,Coal ret. 55y
+Lesotho,0.0,0.0,Coal ret. 55y
+Malawi,0.0,0.0,Coal ret. 55y
+Mozambique,0.0,7.265074616434798,Coal ret. 55y
+Namibia,,6.708000000000001,Coal ret. 55y
+SouthAfrica,0.0,10.781517075661489,Coal ret. 55y
+Tanzania,0.0,17.304374533075787,Coal ret. 55y
+Zambia,0.0,0.0,Coal ret. 55y
+Zimbabwe,0.0,,Coal ret. 55y
+Angola,0.0,8.898448813896849,Coal ret. 45y
+Botswana,0.0,0.0,Coal ret. 45y
+DRC,0.0,0.0,Coal ret. 45y
+Eswatini,,0.0,Coal ret. 45y
+Lesotho,0.0,0.0,Coal ret. 45y
+Malawi,0.0,0.0,Coal ret. 45y
+Mozambique,9.094947017729308e-15,15.082209651979747,Coal ret. 45y
+Namibia,,6.707999999999999,Coal ret. 45y
+SouthAfrica,0.0,13.274083733189826,Coal ret. 45y
+Tanzania,0.0,16.51453441732359,Coal ret. 45y
+Zambia,0.0,0.0,Coal ret. 45y
+Zimbabwe,0.0,,Coal ret. 45y
