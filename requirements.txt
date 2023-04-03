@@ -1,3 +1,5 @@
 dash
 dash_bootstrap_components
 plotly
+signal
+threading
