@@ -1,3 +1,8 @@
+# Pip installs for streamlit
+python -m pip install dash
+python -m pip install plotly
+python -m pip install dash_bootstrap_components
+
 # Imports and Global Variables
 from dash import Dash, dcc, html, Input, Output, callback_context
 from plotly.subplots import make_subplots
