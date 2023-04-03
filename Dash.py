@@ -10,9 +10,9 @@ generation_df = pd.read_csv('ModuleData/electricity_generation.csv')
 capacity_df = pd.read_csv('ModuleData/existing_and_new_capacity.csv')
 costs_lineplot = pd.read_csv('ModuleData/costs_lineplot.csv')
 emissions_lineplot = pd.read_csv('ModuleData/emissions_lineplot.csv')
-df_nbuilt_hydro = pd.read_csv('ModuleData\df_nbuilt_hydro.csv')
-df_nbuilt_vre = pd.read_csv('ModuleData\df_nbuilt_vre.csv')
-df_nbuilt_fossil = pd.read_csv('ModuleData\df_nbuilt_fossil.csv')
+df_nbuilt_hydro = pd.read_csv('ModuleData/df_nbuilt_hydro.csv')
+df_nbuilt_vre = pd.read_csv('ModuleData/df_nbuilt_vre.csv')
+df_nbuilt_fossil = pd.read_csv('ModuleData/df_nbuilt_fossil.csv')
 map_df = pd.read_csv('ModuleData/transmission_map_data.csv')
 
 # Colors
