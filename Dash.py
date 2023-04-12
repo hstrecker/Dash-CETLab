@@ -12,7 +12,7 @@ import sys
 def default_handler(signum, frame):
     print(f"Received signal {signum}. Exiting.")
     sys.exit(0)
-signal.signal(signal.SIGTERM, default_handler)
+handler = signal.signal(signal.SIGTERM, default_handler)
 
 # Import Existing Data
 generation_df = pd.read_csv('ModuleData/electricity_generation.csv')
