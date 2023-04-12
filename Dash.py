@@ -5,13 +5,13 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.graph_objects as go
 
-# Code to make compatible with Streamlit
+# Code to make compatible with streamlit
 import signal
+import sys
 
 def default_handler(signum, frame):
     print(f"Received signal {signum}. Exiting.")
-    exit(0)
-
+    sys.exit(0)
 signal.signal(signal.SIGTERM, default_handler)
 
 # Import Existing Data
