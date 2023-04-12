@@ -409,6 +409,6 @@ def update_fig4(tab_4_checklist):
 if __name__ == '__main__':
     app.run_server(debug=True)
     def default_handler(signum, frame):
-    print(f"Received signal {signum}. Exiting.")
-    sys.exit(0)
+      print(f"Received signal {signum}. Exiting.")
+      sys.exit(0)
     signal.signal(signal.SIGTERM, default_handler)
