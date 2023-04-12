@@ -400,3 +400,7 @@ def update_fig4(tab_4_checklist):
         width=950,
         height=500 * round((len(tab_4_checklist) / 2) + 0.1))
     return maps
+
+
+if __name__ == '__main__':
+  app.run_server(debug=False)
