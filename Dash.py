@@ -411,4 +411,3 @@ def update_fig4(tab_4_checklist):
 
 if __name__ == '__main__':
   app.run_server(debug=False)
-  signal.signal(signal.SIGTERM, default_handler)
