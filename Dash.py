@@ -8,6 +8,9 @@ import plotly.graph_objects as go
 # Code to make compatible with streamlit
 import signal
 import sys
+def default_handler(signum, frame):
+  print(f"Received signal {signum}. Exiting.")
+  sys.exit(0)
 
 # Import Existing Data
 generation_df = pd.read_csv('ModuleData/electricity_generation.csv')
@@ -407,8 +410,5 @@ def update_fig4(tab_4_checklist):
 
 
 if __name__ == '__main__':
-    def default_handler(signum, frame):
-      print(f"Received signal {signum}. Exiting.")
-      sys.exit(0)
-    signal.signal(signal.SIGTERM, default_handler)
-    app.run_server(debug=False)
+  app.run_server(debug=False)
+  signal.signal(signal.SIGTERM, default_handler)
